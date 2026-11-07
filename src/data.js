@@ -4,7 +4,7 @@ import kalki from "./assets/kalki.jpg";
 import border2 from "./assets/border2.jpg";
 import toxic from "./assets/toxic.jpg";
 import mercy from "./assets/mercy.jpg";
-import god from "./assets/gododzilla.png";
+import god from "./assets/godzilla.png";
 import kraven from "./assets/kraven.jpg";
 import fighter from "./assets/fighter.jpg";
 import argylle from "./assets/argylle.jpg";
