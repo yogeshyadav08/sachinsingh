@@ -11,7 +11,7 @@ import {
 import MailIcon from "@mui/icons-material/MailOutlined";
 import PlaceIcon from "@mui/icons-material/PlaceOutlined";
 
-const EMAIL = "hello@sachinvfx.com";
+const EMAIL = "ssrvfx14@gmail.com";
 
 export default function Contact() {
   const [sent, setSent] = useState(false);

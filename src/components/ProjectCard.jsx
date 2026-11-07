@@ -13,10 +13,10 @@ export default function ProjectCard({ p }) {
         borderColor: "divider",
         "& img": { transition: "transform .8s cubic-bezier(.2,.8,.2,1)" },
         "&:hover img": { transform: "scale(1.08)" },
-        "&:hover .play": {
-          opacity: 1,
-          transform: "translate(-50%,-50%) scale(1)",
-        },
+        // "&:hover .play": {
+        //   opacity: 1,
+        //   transform: "translate(-50%,-50%) scale(1)",
+        // },
       }}
     >
       <Box
