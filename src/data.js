@@ -1,5 +1,5 @@
 import hero from "./assets/hero.jpg";
-import ram from "./assets/ramayana.jpg";
+import ramayana from "./assets/ramayana.jpg";
 import kalki from "./assets/kalki.jpg";
 import border2 from "./assets/border2.jpg";
 import toxic from "./assets/toxic.jpg";
@@ -27,7 +27,7 @@ export const projects = [
     type: "Fantasy/Drama Film",
     role: "Senior Compositor / VFX & CGI Compositing",
     year: "2026",
-    img: ram,
+    img: ramayana,
     tools: ["Nuke", "Mocha"],
   },
   {
