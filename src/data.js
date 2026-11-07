@@ -4,7 +4,7 @@ import kalki from "./assets/kalki.jpg";
 import border2 from "./assets/border2.jpg";
 import toxic from "./assets/toxic.jpg";
 import mercy from "./assets/mercy.jpg";
-import god from "./assets/godzilla.png";
+import godzilla from "./assets/godzilla.png";
 import kraven from "./assets/kraven.jpg";
 import fighter from "./assets/fighter.jpg";
 import argylle from "./assets/argylle.jpg";
@@ -67,7 +67,7 @@ export const projects = [
     type: "Action Film",
     role: "Senior Compositor / VFX & CGI Compositing",
     year: "2024",
-    img: god,
+    img: godzilla,
     tools: ["Nuke"],
   },
   {
