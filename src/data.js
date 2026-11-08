@@ -1,5 +1,5 @@
 import hero from "./assets/hero.jpg";
-import ramayana from "./assets/ramayana.jpg";
+import ramayana from "./assets/Ramayana.jpg";
 import kalki from "./assets/kalki.jpg";
 import border2 from "./assets/border2.jpg";
 import toxic from "./assets/toxic.jpg";
