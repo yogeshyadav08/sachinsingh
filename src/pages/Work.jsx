@@ -39,6 +39,15 @@ export default function Work() {
           </Grid>
         ))}
       </Grid>
+      <Typography
+        variant="h3"
+        component="p"
+        color="primary"
+        textAlign="center"
+        sx={{ mt: 6 }}
+      >
+        And Many More Movie
+      </Typography>
     </Container>
   );
 }

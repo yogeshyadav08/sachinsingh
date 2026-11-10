@@ -4,20 +4,21 @@ import kalki from "./assets/kalki.jpg";
 import border2 from "./assets/border2.jpg";
 import toxic from "./assets/Toxic.jpg";
 import mercy from "./assets/mercy.jpg";
-import godzilla from "./assets/Godzilla.png";
+import godzilla from "./assets/gode.jpg";
 import kraven from "./assets/kraven.jpg";
 import fighter from "./assets/fighter.jpg";
-import argylle from "./assets/argylle.jpg";
-import antman from "./assets/antman.jpg";
+import argylle from "./assets/argy.jpg";
+import antman from "./assets/ante.jpg";
 import laalsingh from "./assets/laalsingh.jpg";
-import deadline from "./assets/deadline.jpg";
-import attack from "./assets/attack.jpg";
+import deadline from "./assets/deade.jpg";
+import attack from "./assets/atte.jpg";
 import cruella from "./assets/cruella.jpg";
 import kondapolam from "./assets/kondapolam.jpg";
-import eurovision from "./assets/eurovision.jpg";
+import eurovision from "./assets/euro.jpg";
 import callofwild from "./assets/callofwild.jpg";
 import cats from "./assets/cats.jpg";
-import kedarnath from "./assets/kedarnath.jpg";
+import kedarnath from "./assets/kedar.jpg";
+import bahubali from "./assets/bahubali.jpg";
 
 export const heroImg = hero;
 
@@ -25,18 +26,18 @@ export const projects = [
   {
     title: "Ramayana: Part 1",
     type: "Fantasy/Drama Film",
-    role: "Senior Compositor / VFX & CGI Compositing",
+    role: "Lookdev /Senior Compositor",
     year: "2026",
     img: ramayana,
-    tools: ["Nuke", "Mocha"],
+    tools: ["Nuke"],
   },
   {
     title: "Toxic",
     type: "Film",
-    role: "Senior Compositor / VFX & CGI Compositing",
+    role: "Lookdev /Senior Compositor",
     year: "2026",
     img: toxic,
-    tools: ["Nuke", "Mocha"],
+    tools: ["Nuke"],
   },
   {
     title: "Mercy",
@@ -63,7 +64,7 @@ export const projects = [
     tools: ["Nuke", "Mocha"],
   },
   {
-    title: "Godzilla x Kong: The New Empire",
+    title: "Godzilla x Kong",
     type: "Action Film",
     role: "Senior Compositor / VFX & CGI Compositing",
     year: "2024",
@@ -95,7 +96,7 @@ export const projects = [
     tools: ["Nuke"],
   },
   {
-    title: "Ant-Man and the Wasp: Quantumania",
+    title: "Ant-Man and Wasp",
     type: "Action Film",
     role: "Key Artist / Senior Compositor ",
     year: "2023",
@@ -151,7 +152,7 @@ export const projects = [
     tools: ["Nuke"],
   },
   {
-    title: "The Call of the Wild",
+    title: "The Call of Wild",
     type: "Family/Adventure Film",
     role: "Compositor",
     year: "2020",
@@ -172,6 +173,14 @@ export const projects = [
     role: "Compositor",
     year: "2018",
     img: kedarnath,
+    tools: ["Nuke"],
+  },
+  {
+    title: "Baahubali 2: The Conclusion",
+    type: "Action/Fantasy Film",
+    role: "Compositor",
+    year: "2018",
+    img: bahubali,
     tools: ["Nuke"],
   },
 ];

@@ -134,7 +134,7 @@ export default function Home() {
               variant="h2"
               sx={{ fontSize: { xs: "3rem", md: "4.5rem" } }}
             >
-              Featured shots
+              Thumbnails
             </Typography>
           </Box>
           <Button component={Link} to="/work" color="secondary">
